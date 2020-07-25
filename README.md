@@ -1,2 +1,9 @@
-# project_arquitectura_software_flutter
-Project - model in new apps
+# projeto_arquiterura
+
+Projeto para treino de arquitetura de software
+
+## Getting Started
+
+Estrutura geral de projetos
+
+
